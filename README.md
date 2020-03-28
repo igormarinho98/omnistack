@@ -1,4 +1,4 @@
 # Projeto Semana Omnistack Rocketseat Be The Hero
 
-# Utilizando Node, React, SQLite
+<p> Utilizando Node, React, SQLite e React-native </p>
 
